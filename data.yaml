@@ -1,0 +1,8 @@
+names:
+- Healthy
+- Bleached
+- Non-Corals
+nc: 3
+path: ../S-珊瑚白化检测YOLO
+train: train
+val: val
